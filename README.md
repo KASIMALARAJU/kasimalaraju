@@ -16,4 +16,16 @@ Here are some ideas to get you started:
 -->
 currently pursuing B.Tech 3rd year information technology
 
-file:///C:/Users/Aliet/OneDrive/Desktop/23hp5a1206/image.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <img src="img.jpg" alt="image">
+    </div>
+</body>
+</html>
