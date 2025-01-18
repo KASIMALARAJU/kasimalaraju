@@ -26,6 +26,6 @@ currently pursuing B.Tech 3rd year information technology
 <body>
     <h1>My Image</h1>
     <!-- Replace the src value with the relative path to your image -->
-    <img src="giphy.webp" alt="Example Image" style="width:100%; max-width:600px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdhbTJuYmNlOWhuOWk4ajBnc3AyOHYxaDdjeDU1aGV4YjFkMnJsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Example Image" style="width:100%; max-width:600px;">
 </body>
 </html>
