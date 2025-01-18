@@ -21,11 +21,11 @@ currently pursuing B.Tech 3rd year information technology
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Image Example</title>
 </head>
 <body>
-    <div>
-        <img src="img.jpg" alt="image">
-    </div>
+    <h1>My Image</h1>
+    <!-- Replace the src value with the relative path to your image -->
+    <img src="giphy.webp" alt="Example Image" style="width:100%; max-width:600px;">
 </body>
 </html>
