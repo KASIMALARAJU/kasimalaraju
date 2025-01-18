@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 currently pursuing B.Tech 3rd year information technology
 
-
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdhbTJuYmNlOWhuOWk4ajBnc3AyOHYxaDdjeDU1aGV4YjFkMnJsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Example Image" style="width:100%; max-width:600px;">
+<div>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdhbTJuYmNlOWhuOWk4ajBnc3AyOHYxaDdjeDU1aGV4YjFkMnJsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Example Image" style="width:100%; max-width:600px;">
+</div>
